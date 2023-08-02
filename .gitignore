@@ -1,0 +1,19 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# Has anyone ever created an ERC1155 token wrapper? i.e. a contract that, 
+# when you send ERC20 tokens to it, issues an ERC1155 token with a tokenID 
+# given by the address of the ERC20 token and a balance equal to the sent amount?
+
+
+# Test approving
+# Test transfering
+# Test batch transfering
